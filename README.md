@@ -37,6 +37,6 @@ Bu Python uygulaması, resim dosyalarına gizli mesajlar gömmek ve gömülen me
 
 ## 🌈 Ekran Görüntüleri
 
-![Screenshot1](screenshots/resim.png)
+![Screenshot1](screenshots/resim.jpg)
 
 
